@@ -1,0 +1,12 @@
+# Core dependencies
+jira>=3.5.0
+pandas>=2.0.0
+
+# Optional dependencies for development
+python-dotenv>=1.0.0  # For loading .env files
+
+# Development dependencies (install with: pip install -r requirements-dev.txt)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# mypy>=1.0.0
+# ruff>=0.1.0
