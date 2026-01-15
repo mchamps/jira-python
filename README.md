@@ -17,7 +17,7 @@ A Python library for fetching and analyzing JIRA data using pandas DataFrames.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jira-tools.git
+git clone https://github.com/mchamps/jira-python.git
 cd jira-tools
 
 # Create a virtual environment (recommended)
@@ -206,7 +206,7 @@ issues_df.to_json("issues.json", orient="records", indent=2)
 
 ```bash
 # Clone and install with dev dependencies
-git clone https://github.com/yourusername/jira-tools.git
+git clone https://github.com/mchamps/jira-python.git
 cd jira-tools
 pip install -e ".[dev]"
 ```
